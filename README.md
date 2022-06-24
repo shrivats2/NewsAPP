@@ -1,2 +1,4 @@
 # NewsAPP
-![image](https://user-images.githubusercontent.com/61049031/175565243-25f88d9a-4cbf-499d-bc31-129d783bf5b0.png)
+
+![Screenshot_20220624_205729](https://user-images.githubusercontent.com/61049031/175567830-2ff3f143-2e37-4496-b3ff-e18842e4791d.png)
+
